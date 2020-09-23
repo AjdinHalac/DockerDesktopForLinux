@@ -1,0 +1,8 @@
+{
+    "name": "Docker Desktop for Linux",
+    "description": "Docker Desktop for Linux",
+    "uuid": "docker-desktop-for-linux@ajdinhalac.github.io",
+    "url": "https://github.com/AjdinHalac/DockerDesktopForLinux",
+    "version": 1,
+    "shell-version": ["3.34", "3.36"]
+}
